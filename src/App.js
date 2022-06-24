@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="app">
       <h2>App.js</h2>
-      <CustomComponent/>
+      <CustomComponent  title="This string passed through props from App.js"/>
     </div>
   );
 }
