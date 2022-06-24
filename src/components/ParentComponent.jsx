@@ -1,11 +1,13 @@
 import React from 'react'
+import ChildComponent from './ChildComponent'
 import './ParentComponent.css'
 
 function ParentComponent(props) {
+  const {title} = props
   return (
     <div className='parent-component'>
         <h3>ParentComponent.jsx </h3>
-        <p> {props.title}</p>
+        <ChildComponent title={title}/>
     </div>
   )
 }
