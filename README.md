@@ -1,8 +1,7 @@
 # Pass Props through Multiple Components
 This project is part of a series of small exercises for learning and practicing React.
 
-[< previous exercise ](https://github.com/adriangheo/pass-props-to-component "Pass Props to Component") | [next exercise >](https://github.com/adriangheo/pass-props-through-multiple-components "Pass Props through Multiple Components") 
-
+[< previous exercise ](https://github.com/adriangheo/pass-props-to-component "Pass Props to Component")
 ---
 
 ### Project screenshot:
