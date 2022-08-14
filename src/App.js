@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="app">
       <h2>App.js</h2>
-      <ParentComponent  title="This string passed through props from App.js"/>
+      <ParentComponent  title="This string has been passed through props from App.js"/>
     </div>
   );
 }
