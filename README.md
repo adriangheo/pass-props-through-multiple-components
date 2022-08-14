@@ -2,6 +2,7 @@
 This project is part of a series of small exercises for learning and practicing React.
 
 [< previous exercise ](https://github.com/adriangheo/pass-props-to-component "Pass Props to Component")
+
 ---
 
 ### Project screenshot:
