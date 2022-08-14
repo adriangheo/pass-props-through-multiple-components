@@ -1,5 +1,10 @@
-# React - Passing Props through Multiple Components
-![project image](proj-img.png)
+# React-Components
+This project is part of a series of small exercises for learning and practicing React.
+
+Project screenshot:<br/>
+![project screnshot](proj-img.png)
+
+---
 
 # Getting Started with Create React App
 
